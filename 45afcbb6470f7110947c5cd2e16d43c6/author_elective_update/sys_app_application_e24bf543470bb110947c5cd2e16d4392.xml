@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>ServiceNow Trainning</name>
+        <order>100</order>
+        <roles>x_1283001_servicen.servicenow_trainning_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-16 04:05:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e24bf543470bb110947c5cd2e16d4392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow Trainning</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ServiceNow Training" source="x_1283001_servicen">45afcbb6470f7110947c5cd2e16d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Training">45afcbb6470f7110947c5cd2e16d43c6</sys_scope>
+        <sys_update_name>sys_app_application_e24bf543470bb110947c5cd2e16d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-16 04:05:20</sys_updated_on>
+        <title>ServiceNow Trainning</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow Training">45afcbb6470f7110947c5cd2e16d43c6</application>
+        <file_path/>
+        <instance_id>a96c6159db7af51438f1172913961921</instance_id>
+        <instance_name>dev226836</instance_name>
+        <name>sys_app_application_e24bf543470bb110947c5cd2e16d4392</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>ServiceNow Trainning</name><order>100</order><roles>x_1283001_servicen.servicenow_trainning_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-16 04:05:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e24bf543470bb110947c5cd2e16d4392</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ServiceNow Trainning</sys_name><sys_overrides/><sys_package display_value="ServiceNow Training" source="x_1283001_servicen">45afcbb6470f7110947c5cd2e16d43c6</sys_package><sys_policy/><sys_scope display_value="ServiceNow Training">45afcbb6470f7110947c5cd2e16d43c6</sys_scope><sys_update_name>sys_app_application_e24bf543470bb110947c5cd2e16d4392</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-16 04:05:20</sys_updated_on><title>ServiceNow Trainning</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1532658499</payload_hash>
+        <record_name>ServiceNow Trainning</record_name>
+        <reverted_from/>
+        <source>09afcbb6470f7110947c5cd2e16d43ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-16 04:05:20</sys_created_on>
+        <sys_id>e64bf543470bb110947c5cd2e16d4395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c70ccd28e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-16 04:05:20</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>2e4bf543fb0bb1106a1a73b62665ba94</update_guid>
+        <update_guid_history>2e4bf543fb0bb1106a1a73b62665ba94:1532658499</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ServiceNow Trainning">91ebf583470bb110947c5cd2e16d43f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-16 04:07:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2ec1b8886cfb49588b04fcde994b5440</sys_id>
+        <sys_metadata>e24bf543470bb110947c5cd2e16d4392</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow Trainning</sys_name>
+        <sys_package display_value="ServiceNow Training" source="x_1283001_servicen">45afcbb6470f7110947c5cd2e16d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Training">45afcbb6470f7110947c5cd2e16d43c6</sys_scope>
+        <sys_scope_delete display_value="">1634206f5f624888b722045eb8b94040</sys_scope_delete>
+        <sys_update_name>sys_app_application_e24bf543470bb110947c5cd2e16d4392</sys_update_name>
+        <sys_update_version display_value="sys_app_application_e24bf543470bb110947c5cd2e16d4392">e64bf543470bb110947c5cd2e16d4395</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-16 04:07:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
